@@ -13,6 +13,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ⭐ Leave a star if you liked this list!
 
+---
 
 ## Contents
 
