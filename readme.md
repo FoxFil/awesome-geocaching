@@ -1,5 +1,9 @@
-# Awesome Geocaching
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+	<img width="500" height="350" src="https://github-production-user-asset-6210df.s3.amazonaws.com/83007290/323680360-ecb92e8d-3091-4ed7-a05c-1667d999528b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240418%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240418T161240Z&X-Amz-Expires=300&X-Amz-Signature=1500fec8a2c4ea1b36994bf3846c7c6645ebb677c87b9563dc3ed3060799d40d&X-Amz-SignedHeaders=host&actor_id=83007290&key_id=0&repo_id=788421898" alt="Awesome Geocaching">
+</div>
+<p align="center">
+    <img alt="awesome badge" src="https://awesome.re/badge.svg" />
+</p>
 
 > A curated list of assets availible on the Internet related to Geocaching.
 
