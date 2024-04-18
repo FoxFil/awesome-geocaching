@@ -3,7 +3,7 @@
 
 > A curated list of assets availible on the Internet related to Geocaching.
 
-[Geocaching](https://geocaching.com) is an outdoor recreational activity, in which participants use a Global Positioning System receiver or mobile device and other navigational techniques to hide and seek containers, called geocaches or caches, at specific locations marked by coordinates all over the world.
+[Geocaching](https://en.wikipedia.org/wiki/Geocaching) is an outdoor recreational activity, in which participants use a Global Positioning System receiver or mobile device and other navigational techniques to hide and seek containers, called geocaches or caches, at specific locations marked by coordinates all over the world.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
@@ -19,9 +19,11 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Websites
 
+- [Geocaching.com](https://www.geocaching.com/) - Official international website.
 - [Project-GC](https://project-gc.com/) - Website that gives lot of statistics about your geocaching account.
 - [GeoCheck](https://geocheck.org/) - Coordinates checker for geocaches.
 - [Certitude](https://certitudes.org/) - Tool used to validate solutions for geocaching puzzles.
+- [Geocaching.su](https://geocaching.su/) - Website for geocaching in the post-Soviet countries.
 
 
 ## Apps
