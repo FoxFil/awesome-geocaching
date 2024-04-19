@@ -20,6 +20,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Websites](#websites)
 - [Apps](#apps)
 - [Scripts](#scripts)
+- [Other](#other)
 
 
 ## Websites
@@ -36,9 +37,15 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Geocaching®](https://www.geocaching.com/play/mobile) - An official app for geocaching.
 - [Wherigo](https://apps.apple.com/us/app/wherigo/id1538051913) - `[iOS]` An official app to play Wherigo geocaches.
 - [c:geo](https://play.google.com/store/apps/details?id=cgeo.geocaching) - `[Android]` The most popular free unofficial app for geocaching. Has many tools the official app doesn't have.
-- [Cachly](https://www.cachly.com/) - `[iOS]` A paid unofficial app for geocaching. Has many tools the official app doesn't have.
+- [Cachly](https://www.cachly.com/) - `[iOS]` Paid unofficial app for geocaching. Has many tools the official app doesn't have.
+- [Geocaching4Locus](https://geocaching4locus.eu/) - `[Android]` Locus map add-on which allows you to download and import caches directly from Geocaching.com site.
+- [GeoGet](https://www.geoget.cz/doku.php/start) - `[Windows]` Geocache manager, where you can manage your final waypoints, add notes or waypoints to geocache or import/export geocache from/to GeoGet.
 
 
 ## Scripts
 
 - [GC little helper II](https://github.com/2Abendsegler/GClh/tree/collector) - Powerful tool to enhance and extend the functionality of the geocaching website.
+
+
+## Other
+- [pycaching](https://pypi.org/project/pycaching/3.0.2/) - Python 3 interface for working with Geocaching.com website.
