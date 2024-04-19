@@ -30,6 +30,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [GeoCheck](https://geocheck.org/) - Coordinates checker for geocaches.
 - [Certitude](https://certitudes.org/) - Tool used to validate solutions for geocaching puzzles.
 - [Geocaching.su](https://geocaching.su/) - Website for geocaching in the post-Soviet countries.
+- [Geocaching Toolbox](https://www.geocachingtoolbox.com/) - A lot of tools for geocachers mainly to solve puzzles and do operations with coordinates.
+- [My Geocaching Profile](https://mygeocachingprofile.com/) - Website to build a detailed profile of your geocaching accomplishments.
 
 
 ## Apps
@@ -42,6 +44,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Geocaching4Locus](https://geocaching4locus.eu/) - `[Android]` Locus map add-on which allows you to download and import caches directly from Geocaching.com site.
 - [GeoGet](https://www.geoget.cz/doku.php/start) - `[Windows]` Geocache manager, where you can manage your final waypoints, add notes or waypoints to geocache or import/export geocache from/to GeoGet.
 - [GSAK (Geocaching Swiss Army Knife)](https://gsak.net/index.php/) - `[Windows]` Desktop app for managing geocaches and waypoints.
+- [GCC (GeoCache Calculator)](https://play.google.com/store/apps/details?id=eisbehr.gcc&hl=en&gl=US) - `[Android]` Calculator with over 250 different functions to calculate values.
 
 
 ## Scripts
