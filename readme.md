@@ -1,5 +1,5 @@
 <h1><div align="center">
-	<a href="https://www.geocaching.com"><img width="500" height="350" src="pics/logo.png" alt="Awesome Geocaching"></a>
+	<a href="https://www.geocaching.com"><img width="50%" height="25%" src="pics/logo.png" alt="Awesome Geocaching"></a>
 </div></h1>
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img alt="awesome badge" src="https://awesome.re/badge.svg" />
