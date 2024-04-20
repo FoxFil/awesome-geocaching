@@ -26,12 +26,14 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Websites
 
 - [Geocaching.com](https://www.geocaching.com/) - Official international website.
+- [Shop Geocaching](https://shop.geocaching.com/) - Official geocaching shop where you can buy cache containers, trackables, wearables and more.    
 - [Project-GC](https://project-gc.com/) - Website that gives a lot of statistics about your geocaching account.
 - [GeoCheck](https://geocheck.org/) - Coordinates checker for geocaches.
 - [Certitude](https://certitudes.org/) - Tool used to validate solutions for geocaching puzzles.
 - [Geocaching.su](https://geocaching.su/) - Website for geocaching in the post-Soviet countries.
 - [Geocaching Toolbox](https://www.geocachingtoolbox.com/) - A lot of tools for geocachers mainly to solve puzzles and do operations with coordinates.
 - [My Geocaching Profile](https://mygeocachingprofile.com/) - Website to build a detailed profile of your geocaching accomplishments.
+- [CacheSleuth](https://www.cachesleuth.com/) - Website with many useful tools for geocaching (mainly text decoders).
 
 
 ## Apps
@@ -45,6 +47,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [GeoGet](https://www.geoget.cz/doku.php/start) - `[Windows]` Geocache manager, where you can manage your final waypoints, add notes or waypoints to geocache or import/export geocache from/to GeoGet.
 - [GSAK (Geocaching Swiss Army Knife)](https://gsak.net/index.php/) - `[Windows]` Desktop app for managing geocaches and waypoints.
 - [GCC (GeoCache Calculator)](https://play.google.com/store/apps/details?id=eisbehr.gcc&hl=en&gl=US) - `[Android]` Calculator with over 250 different functions to calculate values.
+- [Caching on Kai](https://caching-on-kai.com/) - `[KaiOS]` Geocaching app for KaiOS users.
+- [Cacher](https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d) - `[Garmin]` Gatmin watch app for geocaching.
 
 
 ## Scripts
