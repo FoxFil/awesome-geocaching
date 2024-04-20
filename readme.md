@@ -53,4 +53,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 ## Other
-- [pycaching](https://pypi.org/project/pycaching/3.0.2/) - Python 3 interface for working with Geocaching.com website.
+- [pycaching](https://pypi.org/project/pycaching) - Python 3 interface for working with Geocaching.com website.
