@@ -5,7 +5,7 @@
     <a href="https://github.com/sindresorhus/awesome"><img alt="awesome badge" src="https://awesome.re/badge.svg" />
 </p>
 
-> A curated list of assets availible on the Internet related to Geocaching.
+> A curated list of assets available on the Internet related to Geocaching.
 
 [Geocaching](https://en.wikipedia.org/wiki/Geocaching) is an outdoor recreational activity, in which participants use a Global Positioning System receiver or mobile device and other navigational techniques to hide and seek containers, called geocaches or caches, at specific locations marked by coordinates all over the world.
 
