@@ -19,7 +19,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [Websites](#websites)
 - [Apps](#apps)
-- [Scripts](#scripts)
 - [Other](#other)
 
 
@@ -55,10 +54,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Cacher](https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d) - `[Garmin]` Gatmin watch app for geocaching.
 
 
-## Scripts
-
-- [GC little helper II](https://github.com/2Abendsegler/GClh/tree/collector) - Powerful tool to enhance and extend the functionality of the geocaching website.
-
-
 ## Other
 - [pycaching](https://pypi.org/project/pycaching) - Python 3 interface for working with Geocaching.com website.
+- [GC little helper II](https://github.com/2Abendsegler/GClh/tree/collector) - Powerful tool to enhance and extend the functionality of the geocaching website.
