@@ -38,6 +38,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [SolvedJigidi](https://solvedjigidi.com/) - The database of solved Jigidi geocaches.
 - [Webwigo](https://www.webwigo.net/) - Website for virtual playing of Wherigo geocaches.
 - [The A-Team Caching - Souvenirs](https://thea-team.net/souvenir) - Website with information on all souvenirs.
+- [Log Them All!](https://www.logthemall.org/) - Website to log several trackables at once by simply entering their codes in a single list.
 
 
 ## Apps
