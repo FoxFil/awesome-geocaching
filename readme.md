@@ -39,6 +39,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Webwigo](https://www.webwigo.net/) - Website for virtual playing of Wherigo geocaches.
 - [The A-Team Caching - Souvenirs](https://thea-team.net/souvenir) - Website with information on all souvenirs.
 - [Log Them All!](https://www.logthemall.org/) - Website to log several trackables at once by simply entering their codes in a single list.
+- [Cipher Identifier](https://illuminationdevelopment.com/tools/cipher-identifier) - Paste the coded text from a puzzle cache to see which cipher it is likely in (Morse, Caesar, Vigenère, pigpen and more), decoded where possible.
+- [Cryptogram Solver](https://illuminationdevelopment.com/tools/cryptogram-solver) - Work out substitution-cipher puzzles letter by letter, with letter counts and words that fit.
 
 
 ## Apps
